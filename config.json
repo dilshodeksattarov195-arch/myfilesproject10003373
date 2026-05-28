@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecarse",
+        "uuid": 32407784,
+        "checksum": "z4cmnb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
